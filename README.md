@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there, I'm Alamin Sheikh 😉👋 <br/></h2> 
 
-<p align="center"><img width=35% src="https://media.giphy.com/media/S3WAKL1SRsyPFztDzC/giphy.gif"></p>
+<p align="center"><img width=25% src="https://media.giphy.com/media/S3WAKL1SRsyPFztDzC/giphy.gif"></p>
 
 
 <p align="center"> <samp>I'm an undergraduate student in Software Engineers at American International University-Bangladesh (AIUB) 🎓. I'm a Full stack web developer[HTML, CSS, JavaScript, Bootstrap, React js, Material UI, Node js, Express framework, MongoDB, SQL, MySql, C#, C++, Python, PHP, Django ] and also working on projects that involve the areas of Artificial Intelligence and Digital Image Processing 📚📈🔬, and I'm also a competitive programming enthusiastic 🤩 🎈 </samp> </p>
