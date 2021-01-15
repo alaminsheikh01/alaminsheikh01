@@ -1,5 +1,10 @@
 <h2 align="center"> Hi there, I'm Alamin Sheikh 😉👋 <br/></h2> 
-
+  <a href="https://github.com/alaminsheikh01" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/alaminsheikh01?label=Github&style=flat">
+  </a>
+  <a href="https://github.com/alaminsheikh01" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=alaminsheikh01&label=Views&color=brightgreen&style=flat" alt="imamuddinwp" />
+  </a>
 <p align="center"><img width=25% src="https://media.giphy.com/media/S3WAKL1SRsyPFztDzC/giphy.gif"></p>
 
 
@@ -9,12 +14,7 @@
 
 <h3 align="center"> Other Accounts 📫 </h3>
 <br />
-  <a href="https://github.com/alaminsheikh01" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/alaminsheikh01?label=Github&style=flat">
-  </a>
-  <a href="https://github.com/alaminsheikh01" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=alaminsheikh01&label=Views&color=brightgreen&style=flat" alt="imamuddinwp" />
-  </a>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/alaminsheikh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
