@@ -9,6 +9,12 @@
 
 <h3 align="center"> Other Accounts 📫 </h3>
 <br />
+  <a href="https://github.com/imamuddinwp" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/imamuddinwp?label=Github&style=flat">
+  </a>
+  <a href="https://github.com/imamuddinwp" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=imamuddinwp&label=Views&color=brightgreen&style=flat" alt="imamuddinwp" />
+  </a>
 <p align="center">
 <a href="https://www.linkedin.com/in/alaminsheikh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
