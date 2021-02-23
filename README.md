@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaminsheikh01&theme=radical&layout=compact" height="300" width="350"/>
 </div>
 
-<p align="center"> <samp>I'm an undergraduate student in Software Engineers at American International University-Bangladesh (AIUB) 🎓. I'm a Full stack web developer[HTML, CSS, JavaScript, Bootstrap, React js, Material UI, Node js, Express framework, MongoDB, SQL, MySql, C#, C++, Python, PHP, Django ] and also working on projects that involve the areas of Artificial Intelligence and Digital Image Processing 📚📈🔬, and I'm also a competitive programming enthusiastic 🤩 🎈 </samp> </p>
+<p align="center"> <samp>I'm an undergraduate student in Software Engineers at American International University-Bangladesh (AIUB) 🎓. I'm a Full stack web developer[HTML, CSS, JavaScript, Bootstrap, React js, Material UI, Node js, Express framework, MongoDB, MySql, C#, C++, Python, Django ] and also working on projects that involve the areas of Artificial Intelligence and Digital Image Processing 📚📈🔬, and I'm also a competitive programming enthusiastic 🤩 🎈 </samp> </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
