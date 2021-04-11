@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there, I'm Alamin Sheikh 😉👋 <br/></h2> 
+<h2 align="center"> Hi there, I'm Alamin Sheikh <br/></h2> 
   <a href="https://github.com/alaminsheikh01" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/alaminsheikh01?label=Github&style=flat">
   </a>
